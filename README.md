@@ -22,7 +22,7 @@
 
 -2) créer un fichier ".env" dans lequel: 
 
-  DB_CREDENTIALS = votre string de connexion mongoDB (sur le site de MongoDB dans Databases, selectionnez votre cluster, cliquez sur connect puis connect your application)
+  DB_CREDENTIALS = votre string de connexion mongoDB
   
   DB_USER_TOKEN = votre token de connexion jsonwebtoken
 
