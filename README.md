@@ -1,14 +1,4 @@
-Pour lancer l'application:
-
--1) créer dossier front end et backend.
-
--2) cloner le repository git suivant dans le dossier front et suivre les instructions d'installation: https://github.com/OpenClassrooms-Student-Center/dwj-projet6
-
--3) cloner ce repository dans le dossier backend
-
-(optionnel: installer nodemon server -> npm install -g nodemon)
-
--4) installer les packages suivants:
+ -1) packages nécessaires:
 
   express -> npm install --save express
   
@@ -30,7 +20,7 @@ Pour lancer l'application:
   
   dotenv -> npm install dotenv
 
--5) créer un fichier ".env" dans lequel: 
+-2) créer un fichier ".env" dans lequel: 
 
   DB_CREDENTIALS = votre string de connexion mongoDB (sur le site de MongoDB dans Databases, selectionnez votre cluster, cliquez sur connect puis connect your application)
   
