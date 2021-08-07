@@ -1,8 +1,11 @@
 Pour lancer l'application:
 
 -1) créer dossier front end et backend.
+
 -2) cloner le repository git suivant dans le dossier front et suivre les instructions d'installation: https://github.com/OpenClassrooms-Student-Center/dwj-projet6
+
 -3) cloner ce repository dans le dossier backend
+
 (optionnel: installer nodemon server -> npm install -g nodemon)
 
 -4) installer les packages suivants:
